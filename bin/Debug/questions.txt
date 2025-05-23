@@ -1,0 +1,134 @@
+A BPM melyik fázisában használnak KPI-kat?
+A folyamatstratégiában
+Az implementációban
+Mindegyikben
+Egyikben sem
+2
+
+Az alábbi állításokra vonatkozóan válassza ki a helyes megoldast: \n 1) Az üzenetváltási modellek célja, hogy elemezni lehessen a resztvevok informacio megosztasi… \n 2) A koreografia diagram fő feladata, hogy összefoglalja a kommunikációt a resztvevok kozott.
+Egyik allitas sem igaz
+Mindkét allitas igaz
+Az elso allitas igaz a masodik hamis
+Az elso allitas hamis a masodik igaz
+0
+
+Mi NEM igaz a folyamatfelelosre?
+Minden esetben ő viseli a vegrehajtasi felelősséget
+Azonosul a folyamat celokkal átfogóan optimalizal
+Koordinálja a folyamatban erintet egységek folyamathoz kapcsolodo tevékenységeket
+A folyamatokat és a célokat rendszeresen igazitja a megvaltozott kornyzethez
+2
+
+Mi igaz a BPMN-re?
+Fentről lefelémodellez, eseményvezérelt megkozelitesu modelleket hoz letre, amelyek közvetlenül workflow rendszerek generálásához használhatók
+Balról jobbra modellezm nem használ uszosávokat, bonyolult jeloleskeszlete van
+Egyszerűbb jelölés készlettel képes technikailag teljesebb ben leirni folyamatokat és a lebonyolitsohz kapcsolodo algoritmikus elemeket, feldogozásokat is
+Modellező eszköz munkafolyamatok tervezésére és megvalósitasahoz
+3
+
+Milyen folyamatok nem tartoznak a BPM folyamatkontrolling fázisába?
+Teljesitmeny merese
+VIR szolgáltatások bevezetése
+BSC fejlesztls
+Folyamat-audit kifejlesztése
+1
+
+Workflow rendszerek 4 alapmechanizmusa
+Sorozat/szerkvencia; Választás/szelekció; Adatcentrikus; Folyamatcentrikus
+Párhuzamos végrehajtás/paralellizmus; Ismétlés/Iteráció; Automatizácio; Optimalizacio
+Sorozat/szekvencia; Választás/szelekció; Párhuzamos végrehajtás/paralellizmus; Ismétlés/Iteráció
+Strukturált; Strukturálatlan; Adatcentrikus; Folyamatcentrikus
+2
+
+Melyik állitas igaz? A folyamatok átalakitasa, ujratervezese soran… (valaszt chatgpt alapjan)
+megszunnek a kereszt-funkcionalis funkciok lóés divizionalis megoldasok
+a funkcionalis megoldasok lebontasa a cel, a teljesen folyamatorientalt szervezet csak fenntarthato megoldast
+a szervezeti forma mindig a kompromisszum azllvarasok és akehetosegek közt
+a szervezetnek nem kell feltetlenul változnia, csak a folyamatszemleletet kell elfogadtatni
+2
+
+Mi igaz a Case Managment (eset menedzsment) megoldasokra? (chatgpt alapjan)
+Egy adott uzleti cel vagy elerese erdekeben egymással lazán kapcsolódó tevékenyégek kezelésére összpontosit
+Minden BPMS megoldasnak alapveto funkcionalitasat kepezi
+Több különféle alfolyamatot(sub-workflows) kombinal egy esetbe, ezáltal egyetlen komplex munkafolyamatot alakit ki
+Több kulonfele alfolyamatot(sub-workflows) kombinal egy esetbe, ezáltal lesz szukseg egyetlen nagy es tulkomplikalt folyamatra
+3
+
+Melyik technologia tipikus alkalmazasi teruleteirol van szo?    IoT / Blockchain / Ai / BRM / RPA \n Egeszsegugy, kozlekedes, autonom jarmuvek, otthon automatizalas, ipari termelés optimalizalasa, mezogazdasag automatizalasa, energiagazdalkodas, okos varosok
+IoT, Internet of Things
+Ai
+BRM
+RPA
+Blockchain
+0
+
+Melyik technologia tipikus alkalmazasi teruleteirol van szo?    IoT / Blockchain / Ai / BRM / RPA \n Statikus es dinamikus nyilvantartasok, okosszerzodesek, fizetesi infrastruktura
+IoT, Internet of Things
+Ai
+BRM
+RPA
+Blockchain
+4
+
+Melyik technologia tipikus alkalmazasi teruleteirol van szo?    IoT / Blockchain / Ai / BRM / RPA \n Fogyasztoi interakciok fejlesztese, elorejelzes, dontestamogatas
+IoT, Internet of Things
+Ai
+BRM
+RPA
+Blockchain
+1
+
+Mi az RPA? (chatgpt generalt kerdes)
+Remote Processing Architecture
+Real-time Process Analyzer
+Robotic Process Automation
+Rapid Programmed Application
+2
+
+Mi a BRM? (chatgpt generalt kerdes)
+Basic Resource Management
+Binary Rule Mechanism
+Business Rules Management
+Business Resource Mapping
+2
+
+A BPM rendszer szervezeti megvalósításának alappillérei:
+• Folyamatmodellezés, újraszervezés, projektmenedzsment, monitorozás
+• Szabályozási rendszer, támogató IT alkalmazások, motivációs rendszer
+• Mérés, szabályozás, koordináció
+• Folyamatmodellezés, elemzés, újraszervezés, projektmenedzsment, változásmenedzsment, monitorozás 
+1
+
+Mi igaz a BPMN-re?
+• Balról jobbra modellez, nem használ úszósávokat, bonyolult jelöléskészlete van
+• Modellező eszköz munkafolyamatok tervezésére és megvalósításához
+• Fentről lefelé modellez, eseményvezérelt meközelítésű modelleket hoz létre, amelyek közvetlenül workflow rendszerek generálásához használhatók
+• Egyszerűbb jelöléskészlettel képes technikailag teljesebben leírni a folyamatot és a lebonyolításhoz kapcsolódó algoritmikus elemeket, feldolgozásokat is 
+1
+
+Milyen tevékenységek tartoznak a BPM változáskezelési fázisába?
+• Kommunikációs stratégia tervezése, részletes tervezés, szervezeti struktúra felolvasztása, módosítása, visszafagyasztása
+• Környezetelemzés, részletes tervezés, kommunikáció, szervezeti struktúra módosítása, ellenállás kezelése, IT fejlesztések implementációja, strabilizáció
+• Részletes tervezés, szervezeti struktúra felolvasztása, IT fejlesztés, kockázatkezelés, struktúra módosítása, visszafagyasztása
+• Környezetelemzés, változtatási koncepció fejlesztése, változtatás tervezése, megvalósítása, stabilizáció
+3 
+
+Miben különbözik a BPMN az eseményvezérelt folyamatábrától? (2.zh) ehhez kell még jo valasz
+• Ciklus többszörözést is egyértelműen jelöl
+• Dokumentum menedzsment célokra csak ez használható
+• Ellentmondásmentes
+• Workflow generálható belőle
+1
+
+
+
+
+
+
+
+
+
+
+
+
+

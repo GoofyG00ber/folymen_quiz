@@ -1,0 +1,111 @@
+Mi NEM igaz a folyamatra?
+• Rendszeres időközönként lezajlik
+• Előre definiált tevékenységek rugalmasan lebonyolítható, logikailag kapcsolódó sorozata
+• Rendszeres események kapcsán zajlik
+• Outputja mindig értékes kell legyen a külső fogyasztó számára
+3
+
+Miért teszi szükségessé 2 szervezet összeolvadása (pl. Felvásárlás miatt) a folyamatok \n összehangolását, újraszervezését? ( merged slides 269)
+• Nem teszi szükségessé, csak ha a 2 cég folyamatai közt jelentős hatékonyságbeli eltérés tapasztalható
+• Mert a 2 szervezet folyamataiból közös új folyamatokat kell szervezni
+• Mert a 2 szervezet folyamatainak az egyesülés után együtt kell működnie
+• Az audit követelmények miatt elkerülhetetlen ez 
+2
+
+Milyen tevékenységek tartoznak a BPM implementációs fázisaiba?
+• Szervezet, folyamatok módosítása
+• Rendszerek bevezetése, módosítása
+• Projekt menedzsment
+Minden válasz helyes
+3
+
+A folyamatleírás vertikális szintjeivel (mélység) kapcsolatban elmondható, hogy
+• A működési területek nem játszanak érdemi szerepet
+• Az 1. szint a folyamatok leírása
+• 4 szintet különböztethetünk meg
+• A 3. szint: alfolyamatok leírása
+3
+
+A BPM életciklus melyik szakaszának eredményei a következők? Transparens \nfolyamatok/folyamatstruktúrák; A gyengeségek közös, dokumentált megértése; Kezdő \nbecslés a lehetőségekről; Megegyezés a javítás eszközeiben; Az optimalizálás céljainak és\n sfolyamatainak tisztázása
+• Folyamat stratégia előkészítése
+• Folyamat optimalizáció
+• Folyamat dokumentáció
+• Folyamat priorizáció
+3
+
+Miért teheti szükségessé a folyamatok tudatos menedzselését az audit megfelelés biztosítása?
+• Hogy legyenek bemutatható folyamatleírásaink ellenőrzéskor
+• Szabályozottá, átláthatóvá és ellenőrizhetővé teszi az ellenőrizendő területekkel kapcsolatos folyamatokat
+• Valamennyi válasz igaz
+• Szabályozottá, funkcionálissá és ellenőrizhetővé teszi az ellenőrizendő területekkel kapcsolatos folyamatokat 
+3
+
+Milyen előnye van a folyamatmenedzsment rendszer kiépítésének?
+• A vállalat minden folyamata hatékonnyá és eredményessé válik
+• A vállalat minden folyamata hatékonnyá válik
+• Megvalósul a teljesítmények tárgyilagos összehasonlíthatósága
+• Megvalósul a folyamatok teljeskörű mérhetősége
+3
+
+A CMMI modell szerint a 2. szinten a szervezet felismeri a folyamatait...
+• De ezek kimenetele előre még nem megjósolható
+• Néhány főfolyamatot definiálnak, néhányat már előre jelezhető módon ismételni képesek, más folyamatok azonban nem megfelelően kontrolláltak.
+• És ezek kimenetele mind előre megjósolható
+• Minden főfolyamatot definiálnak, néhányat már előre jelezhető módon ismételni képesek, más folyamatok(at – a szerk.) pedig mérni tudnak 
+1
+
+Miért érdemes együttesen alkalmazni a lean menedzsmentet és a 6 szigmát? \n Adja meg a helytelen válasz betujelét, a többi válasz helyes.
+• A 6 szigma segítségével minőségi, a lean segítségével pedig gyorsabb folyamathoz jutunk.
+• A lean kontrollálja a folyamatot és kiszámíthatóvá teszi, a 6 szigma pedig gyorsítja a folyamatot.
+• Mindkét módszer alkalmas a folyamat összetettségének, bonyolultságának csökkentésére, így a költségek leszorítására. 
+1
+
+A BPM életciklus mely szakaszának eredményei a következők? Hosszú távon stabilan fenntartható rendszer kialakítása; Teljeskörűség, megkerülhetetlenség biztosítása; A célok átfogó harmonizálásával a résztvevők tevékenységének szisztematikus integrációja.
+• Folyamat stratégia
+• Folyamat működtetés
+• Változtatás menedzsment
+• Folyamat megvalósítás 
+1
+
+Mi az a KPI?
+A folyamatszemlélet és a kontrolling kombinációja
+• A KPI rendszer lehetővé teszi a folyamatok állandó monitorozását és értékelését...
+• Segíti a tényleges mérések kialakítását és a szervezet hatékonyságának fejlesztését. 
+Az összes válasz helyes
+3
+
+Folyamatok feltérképezésének szintjei horizontálisan azt jelzik, hogy
+• Hány funkcióra terjed ki a modell
+• Az egyes lépéseket hányféle jellemzővel írjuk le (pl szerepel-e a dokumentumban szerepkör, rendszer, stb.)
+• A teljes portfólió hány folyamatára terjed ki a model
+• Milyen részletezettségű folyamatok lebontása tevékenységi szintre
+1
+
+A BPM rendszer szervezeti megvalósításának alappillérei:
+• Folyamatmodellezés, újraszervezés, projektmenedzsment, monitorozás
+• Szabályozási rendszer, támogató IT alkalmazások, motivációs rendszer
+• Mérés, szabályozás, koordináció
+• Folyamatmodellezés, elemzés, újraszervezés, projektmenedzsment, változásmenedzsment, monitorozás
+1
+
+Melyik kijelentésé helytálló? Érték az a tevékenység... Jelölje a helytelen válasz betűjelét (a többi válasz helyes)
+• Amiért az ügyfél hajlandó fizetni
+• Amely objektív és szubjektív módon is mérhető, egyszerű és rugalmas
+• Amely a termék vagy szolgáltatás tulajdonságait úgy változtatja meg, hogy az közelebb kerül az ügyfél által elvártakhoz
+• Amelyet már az első alkalommal is helyesen végzünk el 
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

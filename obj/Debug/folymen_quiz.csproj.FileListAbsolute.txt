@@ -1,0 +1,8 @@
+C:\Users\Csanád\Desktop\folymen_quiz\folymen_quiz\bin\Debug\folymen_quiz.exe.config
+C:\Users\Csanád\Desktop\folymen_quiz\folymen_quiz\bin\Debug\folymen_quiz.exe
+C:\Users\Csanád\Desktop\folymen_quiz\folymen_quiz\bin\Debug\folymen_quiz.pdb
+C:\Users\Csanád\Desktop\folymen_quiz\folymen_quiz\obj\Debug\folymen_quiz.csproj.AssemblyReference.cache
+C:\Users\Csanád\Desktop\folymen_quiz\folymen_quiz\obj\Debug\folymen_quiz.csproj.CoreCompileInputs.cache
+C:\Users\Csanád\Desktop\folymen_quiz\folymen_quiz\obj\Debug\folymen_quiz.exe
+C:\Users\Csanád\Desktop\folymen_quiz\folymen_quiz\obj\Debug\folymen_quiz.pdb
+C:\Users\Csanád\Desktop\folymen_quiz\folymen_quiz\obj\Debug\folymen_quiz.exe.config
