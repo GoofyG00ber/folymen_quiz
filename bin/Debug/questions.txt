@@ -47,12 +47,12 @@ a szervezeti forma mindig a kompromisszum azllvarasok és akehetosegek közt
 a szervezetnek nem kell feltetlenul változnia, csak a folyamatszemleletet kell elfogadtatni
 2
 
-Mi igaz a Case Managment (eset menedzsment) megoldasokra? (chatgpt alapjan)
+Mi igaz a Case Management (eset menedzsment) megoldasokra? (chatgpt alapjan es 2 helyes valasz is van)
 Egy adott uzleti cel vagy elerese erdekeben egymással lazán kapcsolódó tevékenyégek kezelésére összpontosit
 Minden BPMS megoldasnak alapveto funkcionalitasat kepezi
 Több különféle alfolyamatot(sub-workflows) kombinal egy esetbe, ezáltal egyetlen komplex munkafolyamatot alakit ki
-Több kulonfele alfolyamatot(sub-workflows) kombinal egy esetbe, ezáltal lesz szukseg egyetlen nagy es tulkomplikalt folyamatra
-3
+Több kulonfele alfolyamatot(sub-workflows) kombinal egy esetbe, ezáltal nem lesz szukseg egyetlen nagy es tulkomplikalt folyamatra
+0
 
 Melyik technologia tipikus alkalmazasi teruleteirol van szo?    IoT / Blockchain / Ai / BRM / RPA \n Egeszsegugy, kozlekedes, autonom jarmuvek, otthon automatizalas, ipari termelés optimalizalasa, mezogazdasag automatizalasa, energiagazdalkodas, okos varosok
 IoT, Internet of Things
@@ -113,7 +113,7 @@ Milyen tevékenységek tartoznak a BPM változáskezelési fázisába?
 • Környezetelemzés, változtatási koncepció fejlesztése, változtatás tervezése, megvalósítása, stabilizáció
 3 
 
-Miben különbözik a BPMN az eseményvezérelt folyamatábrától? (2.zh) ehhez kell még jo valasz
+Miben különbözik a BPMN az eseményvezérelt folyamatábrától? (2.zh) jelöld annak a betujelet amiben nem kulonbozik
 • Ciklus többszörözést is egyértelműen jelöl
 • Dokumentum menedzsment célokra csak ez használható
 • Ellentmondásmentes

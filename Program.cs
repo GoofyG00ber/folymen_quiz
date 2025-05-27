@@ -137,9 +137,11 @@ class Program
         Quiz quiz = new Quiz();
         try
         {
-            quiz.LoadFromFile("questions.txt");
+            string kerdes_file = "jog_kerdesek_OSSZES.txt"; // ezt at lehet irni
+            quiz.LoadFromFile(kerdes_file);
             do
             {
+                Console.WriteLine("Kérdések beolvasva a következő fájlból: "+kerdes_file);
                 quiz.RunQuiz();
                 Console.Write("Szeretnéd újra kitölteni a kvízt? (I/N): ");
                 string response = Console.ReadLine()?.Trim().ToUpper();

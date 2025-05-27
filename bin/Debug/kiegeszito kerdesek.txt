@@ -1,0 +1,12 @@
+A folyamat banyaszat speciális terulete az automatizalt felyamatfeltaras (ABPD), ami …………… meghatarozasara szolgal.
+A folyamat banyaszat ………… megoldasokat hasznal, lenyege, hogy folyamat alapu rendszerek valami vizsgálva osszegyujti es elemzi a(z) …………
+
+korabban nem leirt folyamatmodellek
+korabban mar leirt folyamatmodellek 
+korabban nem leirt dontesi szabalyok
+
+adatbanyaszati
+modellezesi es szimulacios
+folyamat-automatizacios
+
+folyamat tevékenységek d..
